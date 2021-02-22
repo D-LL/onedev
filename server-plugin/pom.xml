@@ -17,6 +17,7 @@
 	</dependencies>
 	<modules>
     	<module>server-plugin-report-markdown</module>
+   		<module>server-plugin-report-jest</module>
     	<module>server-plugin-report-clover</module>
   </modules>
 </project>
